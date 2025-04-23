@@ -1,17 +1,20 @@
-# High-speed-Brushless-motor-FPV-RC-car
+# High-speed-Brushless-motor-RC-car
 
 
 <img src= "Images/IMG_20250422_204341.jpg" >
 
-Component | Details
-Motor | Brushless DC Motor (possibly A2212)
-Motor Drive | Gear transmission to rear axle
-Steering | Front-wheel servo (SG90/MG90S)
-Battery | 11.1V 3S 3300mAh 35C LiPo
-ESC | BLDC ESC (11.1V compatible)
-Chassis | 3D-printed, modular design
-Drive Type | Rear-Wheel Drive (RWD)
-Control System | Awaiting RC receiver or MCU setup
+### Component Summary Table (RC Car)
+
+| **Component**         | **Description**                                      |
+|-----------------------|------------------------------------------------------|
+| **Drive Type**        | Rear-Wheel Drive (RWD)                               |
+| **Motor**             | Brushless DC Motor ( A2212)                          |
+| **Steering**          | Front-wheel steering with micro servo (SG90)         |
+| **Battery**           | 11.1V (3S) 3300mAh Li-Po, 35C discharge rate         |
+| **ESC**               | Brushless ESC with BEC                               |
+| **Chassis**           | 3D-printed, lightweight, modular structure           |
+| **Wheels**            | 4 wheels with yellow hubs and rubber tires           |
+| **Transmission**      | Gear-based, motor to rear axle                       |
 
 | <img src= "Images/IMG_20250422_204335.jpg" > | <img src="Images/IMG_20250422_204348.jpg" > |
 | --------------------------- | --------------------------- |
